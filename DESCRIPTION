@@ -1,0 +1,16 @@
+Package: climateRecords
+Title: Data Sets Containing Climate Records, Sunshine Duration and Average Temperature
+Version: 0.1.0
+Authors@R: 
+    person(given = "Ceyda",
+           family = "Yazici",
+           role = c("aut", "cre"),
+           email = "ceydayazici86@gmail.com")
+Description: Provides data sets about climate records, sunshine duration and average temperature 
+    scraped from Wikipedia.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.3.1
