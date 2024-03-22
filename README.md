@@ -7,12 +7,14 @@ An R Package including climate data sets that are scraped from Wikipedia on Marc
 
 ## Installation
 
+```
 remotes::install_github("yaziciceyda/climateRecords")
-
 library(climateRecords)
+```
 
 The data sets can be loaded as
-
+```
 data(Average_Temperature, package = climateRecords)
 data(Sunshine_Duration, package = climateRecords)
 data(Weather_Records, package = climateRecords)
+```
