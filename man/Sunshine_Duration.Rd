@@ -7,6 +7,7 @@
 \format{
 A data frame with 402 rows and 16 variables.
 \describe{
+\item{Continent}{Continent of the country}
 \item{Country}{The name of the country}
 \item{City}{The name of the city}
 \item{Jan}{Total sunshine hours in January}
@@ -22,7 +23,6 @@ A data frame with 402 rows and 16 variables.
 \item{Nov}{Total sunshine hours in November}
 \item{Dec}{Total sunshine hours in December}
 \item{Year}{Total sunshine hours in a year}
-\item{continent}{Continent of the country}
 }
 }
 \source{
